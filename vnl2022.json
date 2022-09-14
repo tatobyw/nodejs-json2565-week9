@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "team":"UNITED STATES",
+        "rank":"1",
+        "score":"401", 
+        "image":"https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_usa"
+    },
+    {
+        "id":"2",
+        "team":"BRAZIL",
+        "rank":"2",
+        "score":"377", 
+        "image":"https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_bra"
+    },
+    {
+        "id":"3",
+        "team":"THAILAND",
+        "rank":"14",
+        "score":"205", 
+        "image":"https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_tha"
+    }
+]
